@@ -7,16 +7,11 @@ body {
 	font-size: 13px;
 	line-height: 1.5em;
 	letter-spacing: 3px; 
+	font-family: "Impact";
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 
-}
-@font-face {
-  font-family: "Impact";
-  src: url('../IMPACT.TTF');
-  font-weight: normal;
-  font-style: normal;
 }
 
 a, a:link, a:visited { color: #CCFF66; font-weight: normal; text-decoration: none }
